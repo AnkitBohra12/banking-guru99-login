@@ -6,11 +6,16 @@ Java – Core programming language
 Maven – Build and dependency management
 TestNG – Test framework for structured and parallel test execution
 Apache POI – Handling test data from Excel files
+
+
 🔹 Features:
 Automated test scripts for login functionality
 Data-driven testing using Apache POI (Excel)
 TestNG framework for assertions and reporting
 Modular and maintainable test structure
+
+
+
 🔹 How to Use:
 Clone the repository
 Set up dependencies using Maven

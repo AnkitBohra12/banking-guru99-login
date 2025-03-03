@@ -32,7 +32,7 @@ public class BothInvalid {
 			System.out.println("Failed");
 		}
 		
-		driver.close();				
+		driver.close();	
 
 	}
 
